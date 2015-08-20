@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [app_interface]">
+  <test name="BrandTest(failed)">
+    <classes>
+      <class name="com.ntes.interfacetest.demo.BrandTest">
+        <methods>
+          <include name="test" invocation-numbers="0 1 2 3"/>
+          <include name="clean"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.ntes.interfacetest.demo.BrandTest -->
+      <class name="com.ntes.interfacetest.demo.KaolaSendpay">
+        <methods>
+          <include name="clean"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.ntes.interfacetest.demo.KaolaSendpay -->
+    </classes>
+  </test> <!-- BrandTest(failed) -->
+  <test name="KaolaSendpay(failed)">
+    <classes>
+      <class name="com.ntes.interfacetest.demo.BrandTest">
+        <methods>
+          <include name="clean"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.ntes.interfacetest.demo.BrandTest -->
+      <class name="com.ntes.interfacetest.demo.KaolaSendpay">
+        <methods>
+          <include name="clean"/>
+          <include name="init"/>
+          <include name="sendPayActivity" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.ntes.interfacetest.demo.KaolaSendpay -->
+    </classes>
+  </test> <!-- KaolaSendpay(failed) -->
+</suite> <!-- Failed suite [app_interface] -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="app_interface">
+    
+	<test name="BrandTest">
+		<classes>
+			<class name="com.ntes.interfacetest.demo.BrandTest" />
+		</classes>
+	</test>
+	
+	<test name="KaolaAccount">
+		<classes>
+			<class name="com.ntes.interfacetest.demo.KaolaAccount" />
+		</classes>
+	</test>
+
+</suite>
+

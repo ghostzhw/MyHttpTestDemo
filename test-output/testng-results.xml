@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="app_interface" duration-ms="483" started-at="2015-08-17T12:22:31Z" finished-at="2015-08-17T12:22:31Z">
+    <groups>
+    </groups>
+    <test name="BrandTest" duration-ms="378" started-at="2015-08-17T12:22:31Z" finished-at="2015-08-17T12:22:31Z">
+      <class name="com.ntes.interfacetest.demo.BrandTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.ntes.interfacetest.demo.BrandTest@1fb3ab6]" name="init" is-config="true" duration-ms="29" started-at="2015-08-17T20:22:31Z" finished-at="2015-08-17T20:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.BrandTest@1fb3ab6]" name="test" duration-ms="281" started-at="2015-08-17T20:22:31Z" data-provider="brandTest" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[evansjun@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[OK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.BrandTest@1fb3ab6]" name="test" duration-ms="20" started-at="2015-08-17T20:22:31Z" data-provider="brandTest" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wyydhxy@163.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[android]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[OK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.BrandTest@1fb3ab6]" name="test" duration-ms="19" started-at="2015-08-17T20:22:31Z" data-provider="brandTest" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[178d870ae1c59a2f384bff8f65121726@tencent.163.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pc]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[OK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.BrandTest@1fb3ab6]" name="test" duration-ms="17" started-at="2015-08-17T20:22:31Z" data-provider="brandTest" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[OK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.ntes.interfacetest.demo.BrandTest@1fb3ab6]" name="clean" is-config="true" duration-ms="1" started-at="2015-08-17T20:22:31Z" finished-at="2015-08-17T20:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.ntes.interfacetest.demo.BrandTest -->
+    </test> <!-- BrandTest -->
+    <test name="KaolaAccount" duration-ms="94" started-at="2015-08-17T12:22:31Z" finished-at="2015-08-17T12:22:31Z">
+      <class name="com.ntes.interfacetest.demo.KaolaAccount">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.ntes.interfacetest.demo.KaolaAccount@f5e5e3]" name="init" is-config="true" duration-ms="1" started-at="2015-08-17T20:22:31Z" finished-at="2015-08-17T20:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="accountActivity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.KaolaAccount@f5e5e3]" name="accountActivity" duration-ms="22" started-at="2015-08-17T20:22:31Z" data-provider="kaola_accountData" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oo6x529]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[837830]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8861253749899]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dhuas]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[{"id_ver":"1.1.0","rk":"o/zX8xOuZLeUYSZHHBgOQGTh35koF2PrZ SO4EhRvgrhIxLZEwSTbJx1n8/lKxN KLuGrLXMgGDtry9lG2G94j1Zs Ky4hNLsCmBwdpRDspeY68ln2RC9bahVg1BFxDH60GXDVASEsEpx6f3WAWEao5BiCrQCDZfT9GIEbclWUw=","rdata":"fNXM4 0F0BVmSjwl5ao8k1CMQSw2RNe7yh2MZSX8ppwWJfxC7BLuRt7Qu0Ii7BBWUKA5q6ntxGJfBgpJLoSJ6P2H/KjQbSxToDz1V6 yNaxJqNi1IkjUwtrxiQj4dW7bp9vS VC5aecNO5u5uixttS1tBBANna93cu2JAZQZr 8vtgNH52mpgc7z/oQTgbZ01qFC3Jr6trsH1aAMq3w75DalUmiB7FMYd7NcWgKPgsY=","datatype":"aimt_datas"}]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[222.43.10.213]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[b5966f45b03ceb72c8063bf731b4c06bc0ea5d7b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountActivity -->
+        <test-method status="PASS" signature="accountActivity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.KaolaAccount@f5e5e3]" name="accountActivity" duration-ms="18" started-at="2015-08-17T20:22:31Z" data-provider="kaola_accountData" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oo6x529]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[837830]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8861253749899]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dhuas]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[{"id_ver":"1.1.0","rk":"o/zX8xOuZLeUYSZHHBgOQGTh35koF2PrZ SO4EhRvgrhIxLZEwSTbJx1n8/lKxN KLuGrLXMgGDtry9lG2G94j1Zs Ky4hNLsCmBwdpRDspeY68ln2RC9bahVg1BFxDH60GXDVASEsEpx6f3WAWEao5BiCrQCDZfT9GIEbclWUw=","rdata":"fNXM4 0F0BVmSjwl5ao8k1CMQSw2RNe7yh2MZSX8ppwWJfxC7BLuRt7Qu0Ii7BBWUKA5q6ntxGJfBgpJLoSJ6P2H/KjQbSxToDz1V6 yNaxJqNi1IkjUwtrxiQj4dW7bp9vS VC5aecNO5u5uixttS1tBBANna93cu2JAZQZr 8vtgNH52mpgc7z/oQTgbZ01qFC3Jr6trsH1aAMq3w75DalUmiB7FMYd7NcWgKPgsY=","datatype":"aimt_datas"}]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[61.236.187.255]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[b5966f45b03ceb72c8063bf731b4c06bc0ea5d7b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountActivity -->
+        <test-method status="PASS" signature="accountActivity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.KaolaAccount@f5e5e3]" name="accountActivity" duration-ms="15" started-at="2015-08-17T20:22:31Z" data-provider="kaola_accountData" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oo6x529]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[837830]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8861253749899]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dhuas]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[{"id_ver":"1.1.0","rk":"o/zX8xOuZLeUYSZHHBgOQGTh35koF2PrZ SO4EhRvgrhIxLZEwSTbJx1n8/lKxN KLuGrLXMgGDtry9lG2G94j1Zs Ky4hNLsCmBwdpRDspeY68ln2RC9bahVg1BFxDH60GXDVASEsEpx6f3WAWEao5BiCrQCDZfT9GIEbclWUw=","rdata":"fNXM4 0F0BVmSjwl5ao8k1CMQSw2RNe7yh2MZSX8ppwWJfxC7BLuRt7Qu0Ii7BBWUKA5q6ntxGJfBgpJLoSJ6P2H/KjQbSxToDz1V6 yNaxJqNi1IkjUwtrxiQj4dW7bp9vS VC5aecNO5u5uixttS1tBBANna93cu2JAZQZr 8vtgNH52mpgc7z/oQTgbZ01qFC3Jr6trsH1aAMq3w75DalUmiB7FMYd7NcWgKPgsY=","datatype":"aimt_datas"}]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[106.85.234.58]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[b5966f45b03ceb72c8063bf731b4c06bc0ea5d7b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountActivity -->
+        <test-method status="PASS" signature="accountActivity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.KaolaAccount@f5e5e3]" name="accountActivity" duration-ms="18" started-at="2015-08-17T20:22:31Z" data-provider="kaola_accountData" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oo6x529]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[837830]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8861253749899]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dhuas]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[{"id_ver":"1.1.0","rk":"o/zX8xOuZLeUYSZHHBgOQGTh35koF2PrZ SO4EhRvgrhIxLZEwSTbJx1n8/lKxN KLuGrLXMgGDtry9lG2G94j1Zs Ky4hNLsCmBwdpRDspeY68ln2RC9bahVg1BFxDH60GXDVASEsEpx6f3WAWEao5BiCrQCDZfT9GIEbclWUw=","rdata":"fNXM4 0F0BVmSjwl5ao8k1CMQSw2RNe7yh2MZSX8ppwWJfxC7BLuRt7Qu0Ii7BBWUKA5q6ntxGJfBgpJLoSJ6P2H/KjQbSxToDz1V6 yNaxJqNi1IkjUwtrxiQj4dW7bp9vS VC5aecNO5u5uixttS1tBBANna93cu2JAZQZr 8vtgNH52mpgc7z/oQTgbZ01qFC3Jr6trsH1aAMq3w75DalUmiB7FMYd7NcWgKPgsY=","datatype":"aimt_datas"}]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[182.88.10.255]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[b5966f45b03ceb72c8063bf731b4c06bc0ea5d7b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountActivity -->
+        <test-method status="PASS" signature="accountActivity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String)[pri:0, instance:com.ntes.interfacetest.demo.KaolaAccount@f5e5e3]" name="accountActivity" duration-ms="12" started-at="2015-08-17T20:22:31Z" data-provider="kaola_accountData" finished-at="2015-08-17T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oo6x529]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[837830]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8861253749899]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dhuas]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[{"id_ver":"1.1.0","rk":"o/zX8xOuZLeUYSZHHBgOQGTh35koF2PrZ SO4EhRvgrhIxLZEwSTbJx1n8/lKxN KLuGrLXMgGDtry9lG2G94j1Zs Ky4hNLsCmBwdpRDspeY68ln2RC9bahVg1BFxDH60GXDVASEsEpx6f3WAWEao5BiCrQCDZfT9GIEbclWUw=","rdata":"fNXM4 0F0BVmSjwl5ao8k1CMQSw2RNe7yh2MZSX8ppwWJfxC7BLuRt7Qu0Ii7BBWUKA5q6ntxGJfBgpJLoSJ6P2H/KjQbSxToDz1V6 yNaxJqNi1IkjUwtrxiQj4dW7bp9vS VC5aecNO5u5uixttS1tBBANna93cu2JAZQZr 8vtgNH52mpgc7z/oQTgbZ01qFC3Jr6trsH1aAMq3w75DalUmiB7FMYd7NcWgKPgsY=","datatype":"aimt_datas"}]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[61.234.87.250]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[b5966f45b03ceb72c8063bf731b4c06bc0ea5d7b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountActivity -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.ntes.interfacetest.demo.KaolaAccount@f5e5e3]" name="clean" is-config="true" duration-ms="0" started-at="2015-08-17T20:22:31Z" finished-at="2015-08-17T20:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.ntes.interfacetest.demo.KaolaAccount -->
+    </test> <!-- KaolaAccount -->
+  </suite> <!-- app_interface -->
+</testng-results>
